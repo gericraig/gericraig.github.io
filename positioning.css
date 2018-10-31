@@ -1,0 +1,49 @@
+
+.box {
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    background: #eeeeee;
+    align-content: center;
+    margin: 0;
+    }
+
+
+.box-1 {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: #999;
+    top: 50px;
+    left: 20px;
+    }
+
+.box-2 {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background: purple;
+    bottom: 0px;
+    left: 800px;
+    }   
+
+.box-3 {
+    position: relative;
+    width: 900px;
+    height: 200px;
+    background:gray;
+    }
+
+.box-4 {
+    position: initial;
+    width: 900px;
+    height: 200px;
+    top: 300px;
+    }
+
+.box-5 {
+    position: initial;
+    width: 900px;
+    height: 200px;
+    bottom: 300px;
+    }
