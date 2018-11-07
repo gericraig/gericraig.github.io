@@ -1,0 +1,33 @@
+html {
+    background-image:url("../images/wild_flowers.png");  
+ }
+ 
+ header {
+   font-size: 20px;
+   color: goldenrod;
+ }
+ 
+ body {
+   margin: auto;
+   width: 960px; 
+   height: 600px;
+   color: #777777; 
+   font-size:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   background-color:#ffffff;
+ }  
+ 
+ .footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   border-top: goldenrod solid 5px;
+   color: goldenrod;
+   text-align: center;
+ }
+ 
+ .container {
+   image-orientation: inherit
+ }
+ 
